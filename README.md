@@ -1,18 +1,6 @@
 # DSCI 542: Communication and Argumentation
 
-The README for the student repo is [here](https://github.ubc.ca/MDS-2018-19/DSCI_542_comm-arg_students).
 
-## Teaching team
-
-| Role | Name | Email | Slack | Office hours |
-|------|--------|-------|-------|--------------|
-| Lecture instructor | David Laing | davidkendalllaing@gmail.com | @davidlaing | Thursdays 5:30pm-6:30pm over Slack* |
-| Lab instructor | Johannes Harmse | johannesharmse91@gmail.com | @johannes | NA |
-| Teaching assistant | Aaron Berk | aberk@math.ubc.ca | @Aaron Berk | Thursdays 12:30pm – 13:30pm  over Slack* |
-| Teaching assistant | Chris Gubbels | gubbels@phas.ubc.ca | @Chris Gubbels | Wednesday 4:15pm-5:15pm in Hennings 207 |
-| Teaching assistant | Pedro Odon | podon@eoas.ubc.ca | @podon | Tuesday 4:00pm-5:00pm over Slack* |
-
-\* For any office hours that are conducted over Slack, please feel free to use the "call" feature. Go to the relevant person and click the phone icon at the top of the screen.
 
 ## Introduction
 
@@ -39,6 +27,19 @@ By the end of the course, students are expected to be able to:
 5. Make **calibrated claims** about data science results.
 6. Reason about and apply principles of **narrative** when reporting on data science results.
 7. Design and deliver effective **oral presentations** of data science concepts and analyses.
+
+## Teaching team
+
+| Role | Name | Email | Slack | Office hours |
+|------|--------|-------|-------|--------------|
+| Lecture instructor | David Laing | davidkendalllaing@gmail.com | @davidlaing | Thursdays 5:30pm-6:30pm over Slack* |
+| Lab instructor | Johannes Harmse | johannesharmse91@gmail.com | @johannes | NA |
+| Teaching assistant | Aaron Berk | aberk@math.ubc.ca | @Aaron Berk | Thursdays 12:30pm – 13:30pm  over Slack* |
+| Teaching assistant | Chris Gubbels | gubbels@phas.ubc.ca | @Chris Gubbels | Wednesday 4:15pm-5:15pm in Hennings 207 |
+| Teaching assistant | Pedro Odon | podon@eoas.ubc.ca | @podon | Tuesday 4:00pm-5:00pm over Slack* |
+
+\* For any office hours that are conducted over Slack, please feel free to use the "call" feature. Go to the relevant person and click the phone icon at the top of the screen.
+
 
 ## Schedule
 
