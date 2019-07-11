@@ -28,42 +28,30 @@ By the end of the course, students are expected to be able to:
 6. Reason about and apply principles of **narrative** when reporting on data science results.
 7. Design and deliver effective **oral presentations** of data science concepts and analyses.
 
-## Teaching team
-
-| Role | Name | Email | Slack | Office hours |
-|------|--------|-------|-------|--------------|
-| Lecture instructor | David Laing | davidkendalllaing@gmail.com | @davidlaing | Thursdays 5:30pm-6:30pm over Slack* |
-| Lab instructor | Johannes Harmse | johannesharmse91@gmail.com | @johannes | NA |
-| Teaching assistant | Aaron Berk | aberk@math.ubc.ca | @Aaron Berk | Thursdays 12:30pm – 13:30pm  over Slack* |
-| Teaching assistant | Chris Gubbels | gubbels@phas.ubc.ca | @Chris Gubbels | Wednesday 4:15pm-5:15pm in Hennings 207 |
-| Teaching assistant | Pedro Odon | podon@eoas.ubc.ca | @podon | Tuesday 4:00pm-5:00pm over Slack* |
-
-\* For any office hours that are conducted over Slack, please feel free to use the "call" feature. Go to the relevant person and click the phone icon at the top of the screen.
-
 
 ## Schedule
 
-| Date |  Day  | Topic
-|------|-------------|------|
-| Wed 2018-09-06 | lecture 1 | Overview of the course, and guidance on how to be a self-aware and skeptical consumer of communication in data science. |
-| Mon 2018-09-11 | lecture 2 | Technical explanations. Effective use of analogies, diagrams, examples, and other representations of abstract (especially statistical) concepts. |
-| Wed 2018-09-13 | lecture 3 | Writing for data science: clarity and flow at the level of the word, the sentence, the paragraph, and longer passages. |
-| Mon 2018-09-18 | lecture 4 | Communication challenges and strategies at the beginning of a data science project. Understanding the client's needs. Knowing what to ask. Making plans and managing expectations. |
-| Wed 2018-09-20 | lecture 5 | Communication challenges and strategies in the middle of a data science project: documentation; getting help; coordination, delegation, and leadership within a data science team. |
-| Mon 2018-09-25 | lecture 6 | Communication challenges and strategies at the end of a data science project. Advising decision-makers. What to put, and what NOT to put, in a final report. Argumentation, persuasion, narrative, confident uncertainty. |
-| Wed 2018-09-27 | lecture 7 | Speaking in data science: designing a presentation, managing information-density constraints, mitigating risks of being misunderstood,  managing nerves. |
-| Mon 2018-10-02 | lecture 8 | (Optional) Come practice your final presentation in front of an audience. |
+|  Day  | Topic
+|-------|------|
+| lecture 1 | Overview of the course, and guidance on how to be a self-aware and skeptical consumer of communication in data science. |
+| lecture 2 | Technical explanations. Effective use of analogies, diagrams, examples, and other representations of abstract (especially statistical) concepts. |
+| lecture 3 | Writing for data science: clarity and flow at the level of the word, the sentence, the paragraph, and longer passages. |
+| lecture 4 | Communication challenges and strategies at the beginning of a data science project. Understanding the client's needs. Knowing what to ask. Making plans and managing expectations. |
+| lecture 5 | Communication challenges and strategies in the middle of a data science project: documentation; getting help; coordination, delegation, and leadership within a data science team. |
+| lecture 6 | Communication challenges and strategies at the end of a data science project. Advising decision-makers. What to put, and what NOT to put, in a final report. Argumentation, persuasion, narrative, confident uncertainty. |
+| lecture 7 | Speaking in data science: designing a presentation, managing information-density constraints, mitigating risks of being misunderstood,  managing nerves. |
+| lecture 8 | (Optional) Come practice your final presentation in front of an audience. |
 
 ## Deliverables
 
-| Deliverable | Grade | Lab period | Due | Description |
-|-------------|-------|----------|----------|------------|
-| Lab 1 - Critical consumption of a data science article | 17% | 2018-09-06 | 2018-09-08 18:00 | Read a data science blog post and reflect on the author's communication and argumentation. |
-| Lab 2 - Blog post #1 | 17% | 2018-09-13 | 2018-09-15 18:00 | Write a blog post to explain a technical data science concept. |
-| Lab 3 – Communication at the beginning and middle of a data science project (+ blog setup) | 17% | 2018-09-20 | 2018-09-22 18:00 | Choose an empirical question that can be answered with data from accessible and reliable sources. Make a prediction, and take detailed notes on your findings. |
-| Lab 4 – Communication at the end of a data science project (Blog post #2 & presentation slides) | 17% | 2018-09-27 | 2018-09-29 18:00 | Write a blog post to report on your findings from lab 3. |
-| Final presentation | 25% | 2018-09-27 | 2018-10-03 | A 5-minute presentation on the same topic that you wrote your second blog post on. See [here](https://github.ubc.ca/MDS-2018-19/DSCI_542_comm-arg_students/blob/master/pres/presentation_details.csv) for groups, times, rooms and order. |
-| Portfolio | 7% | In-class activities | 2018-10-02 18:00 | A series of activities and reflections, intended to be completed throughout the course during class time. |
+| Deliverable | Grade |  Description |
+|-------------|-------|--------------|
+| Lab 1 - Critical consumption of a data science article | 17% | Read a data science blog post and reflect on the author's communication and argumentation. |
+| Lab 2 - Blog post #1 | 17% | Write a blog post to explain a technical data science concept. |
+| Lab 3 – Communication at the beginning and middle of a data science project (+ blog setup) | 17% | Choose an empirical question that can be answered with data from accessible and reliable sources. Make a prediction, and take detailed notes on your findings. |
+| Lab 4 – Communication at the end of a data science project (Blog post #2 & presentation slides) | 17% | Write a blog post to report on your findings from lab 3. |
+| Final presentation | 25% | A 5-minute presentation on the same topic that you wrote your second blog post on. See [here](https://github.ubc.ca/MDS-2018-19/DSCI_542_comm-arg_students/blob/master/pres/presentation_details.csv) for groups, times, rooms and order. |
+| Portfolio | 7% | A series of activities and reflections, intended to be completed throughout the course during class time. |
 
 ## Reference material
 
